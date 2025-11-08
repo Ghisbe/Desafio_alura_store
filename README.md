@@ -1,6 +1,6 @@
 # Desafio_alura_store
 
-# Análisis de Datos para la toma de decisiones estratégicas**
+# Análisis de Datos para la toma de decisiones estratégicas
 
 
 ## Objetivo del Análisis:
@@ -21,7 +21,7 @@ El proyecto se divide en cinco secciones principales:
 - Productos más y menos vendidos.
 - Envío promedio por tienda.
 
-Estos son los resultados claves, para luego tomar la decision final:
+Estos son los resultados claves, para luego tomar la decisión final:
 
 | Métrica               | Tienda 1 | Tienda 2 | Tienda 3 | Tienda 4 |
 |-----------------------|----------|----------|----------|----------|
@@ -30,7 +30,7 @@ Estos son los resultados claves, para luego tomar la decision final:
 | Calificación promedio | 3.98     | 4.04     | 4.05     | 4.00     |
 | Costo envío promedio  | $26.018  | $25.216  | $24.806  | $23.459  |
 
-## Librerias utilizadas:
+## Recursos y librerías utilizadas:
 Este proyecto fue realizado en Google Colab
 
 ![Python](https://img.shields.io/badge/python-3.9%2B-blue)
@@ -39,13 +39,19 @@ Este proyecto fue realizado en Google Colab
 
 ## Conclusión:
 
-Recomendación final: Vender la tienda 4 Razones para venderla.
+Recomendación final: Vender la tienda 4.
+Razones para venderla:
 
-Es la que menos aporta y tiene el menor costo de envío promedio, menor valor por orden y por ende el menor margen bruto por venta. Su facturación está $118M por debajo de la Tienda 1 que podemos reinvertir en hacer crecer las otras tres tiendas.
+- Es la que menos aporta y tiene el menor costo de envío promedio, menor valor por orden y por ende el menor margen bruto por venta.
+- Su facturación está $118M por debajo de la Tienda 1.
+  
 Pueden observar mas a detalle en el notebook.
 
 ## Autora
+
 **Gisela Belén Figueroa**  
 **Estudiante de Ciencia de Datos**  
-[LinkedIn](https://www.linkedin.com/in/giselabfigue/)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Gisela%20Bel%C3%A9n%20Figueroa-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/giselabfigue/)
+
 
