@@ -50,16 +50,6 @@ Pueden observar mas a detalle en el notebook.
 
 ## Cómo ejecutar el código
 
-Este proyecto fue desarrollado en **Google Colab** utilizando **Python 3**.
-
-Opción 1: Ejecutar directamente en Google Colab
-1. Abrí el notebook en Google Colab desde el siguiente enlace:  
-   [![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Ghisbe/Desafio_alura_store/blob/main/tu_notebook.ipynb)
-2. Ejecutá las celdas en orden para reproducir el análisis.  
-
-
-Opción 2: Ejecutar en local
-
 Si preferís correrlo desde tu computadora:
 
 ```bash
@@ -74,6 +64,7 @@ pip install -r requirements.txt
 
 # 4. Ejecutar el notebook
 AluraStoreLatam_Desafio.ipynb
+```
 
 ## Autora
 
