@@ -40,6 +40,7 @@ Este proyecto fue realizado en Google Colab
 ## Conclusión:
 
 Recomendación final: Vender la tienda 4.
+
 Razones para venderla:
 
 - Es la que menos aporta y tiene el menor costo de envío promedio, menor valor por orden y por ende el menor margen bruto por venta.
