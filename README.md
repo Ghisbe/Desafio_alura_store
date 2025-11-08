@@ -1,15 +1,14 @@
 # Desafio_alura_store
 
-**Análisis de Datos para la Toma de Decisiones Estratégicas**
+# Análisis de Datos para la toma de decisiones estratégicas**
 
 
 ## Objetivo del Análisis:
 
 Ayudar al dueño de **Alura Store** a decidir cuál de sus tiendas vender, identificando:
-- Cuál genera más ingresos
+- Cuál tienda genera más ingresos
 - Cuál tiene mejor satisfacción del cliente
 - Cuál tiene mayor rentabilidad por transacción
-- Dónde concentrar recursos para maximizar ganancias
 
 
 ## Metodología:
@@ -44,3 +43,9 @@ Recomendación final: Vender la tienda 4 Razones para venderla.
 
 Es la que menos aporta y tiene el menor costo de envío promedio, menor valor por orden y por ende el menor margen bruto por venta. Su facturación está $118M por debajo de la Tienda 1 que podemos reinvertir en hacer crecer las otras tres tiendas.
 Pueden observar mas a detalle en el notebook.
+
+## Autora
+**Gisela Belén Figueroa**  
+**Estudiante de Ciencia de Datos**  
+[LinkedIn](https://www.linkedin.com/in/giselabfigue/)
+
