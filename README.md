@@ -55,4 +55,4 @@ Pueden observar mas a detalle en el notebook.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Gisela%20Bel%C3%A9n%20Figueroa-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/giselabfigue/)
 
-
+**Este proyecto se realizó en el marco de aprendizaje en Alura Latam bajo el programa ONE de Oracle**
